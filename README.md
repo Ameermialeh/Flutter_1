@@ -1,4 +1,5 @@
 # First Flutter Application
   Graduate project 1
   
-  Photo in screenshot
+  Photos for app in screenshot Folder
+  
