@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663493910827",
+    "project_id": "gp1-flutter-partyplanner",
+    "storage_bucket": "gp1-flutter-partyplanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663493910827:android:19e29d214732dd92d6656e",
+        "android_client_info": {
+          "package_name": "com.example.gp1_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5oohJTWiUMMl9X-kuaWebqS5PzZxHwWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
